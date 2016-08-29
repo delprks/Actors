@@ -10,7 +10,7 @@ lazy val root = (project in file(".")).
   enablePlugins(plugins.JvmPlugin).
   settings(commonSettings: _*).
   settings(
-    organization := "dnlprks",
+    organization := "delprks",
     name := "Actors",
     version := "1.0"
   )
